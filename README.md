@@ -1,11 +1,11 @@
 # robloxtextures
-custom textures for roblox uploaded so i dont lose them this time
+textures and customizations for roblox
 
-used with [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
+best used with [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) on Windows or [Lucem](https://github.com/xTrayambak/lucem) on Linux
 
-Custom:
+Includes:
  - Sky
  - Sounds
- - Colors
  - No ui buttons
  - Cursors
+ - Performance and qol fflags
